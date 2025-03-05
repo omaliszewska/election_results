@@ -1,6 +1,4 @@
-# README
-
-## Municipality Boundaries and Election Data Processing
+# Municipality Boundaries and Election Data Processing
 
 This Jupyter Notebook automates the process of downloading, extracting, and visualizing German municipality boundaries along with processing and merging election data.
 
